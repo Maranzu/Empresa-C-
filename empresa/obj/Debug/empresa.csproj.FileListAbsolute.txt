@@ -1,0 +1,16 @@
+D:\POO\empresa\empresa\bin\Debug\empresa.exe.config
+D:\POO\empresa\empresa\bin\Debug\empresa.exe
+D:\POO\empresa\empresa\bin\Debug\empresa.pdb
+D:\POO\empresa\empresa\obj\Debug\empresa.csproj.AssemblyReference.cache
+D:\POO\empresa\empresa\obj\Debug\empresa.csproj.SuggestedBindingRedirects.cache
+D:\POO\empresa\empresa\obj\Debug\empresa.Form_categorias.resources
+D:\POO\empresa\empresa\obj\Debug\empresa.Form_consultas.resources
+D:\POO\empresa\empresa\obj\Debug\empresa.Form_informes.resources
+D:\POO\empresa\empresa\obj\Debug\empresa.Form_menu.resources
+D:\POO\empresa\empresa\obj\Debug\empresa.Form_productos.resources
+D:\POO\empresa\empresa\obj\Debug\empresa.Login.resources
+D:\POO\empresa\empresa\obj\Debug\empresa.Properties.Resources.resources
+D:\POO\empresa\empresa\obj\Debug\empresa.csproj.GenerateResource.cache
+D:\POO\empresa\empresa\obj\Debug\empresa.csproj.CoreCompileInputs.cache
+D:\POO\empresa\empresa\obj\Debug\empresa.exe
+D:\POO\empresa\empresa\obj\Debug\empresa.pdb
